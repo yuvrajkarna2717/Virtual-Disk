@@ -2,7 +2,7 @@
 ---
 # Virtual Disk
 
-**Virtual Disk** is a simple virtual storage system written in C++.  
+**Virtual Disk** is a simple virtual storage system written in Javascript.  
 It simulates a virtual hard drive by allowing you to create, store, and retrieve files inside a single large file, mimicking how real-world virtual storage systems (like VMs and cloud disks) work.
 
 ---
@@ -14,7 +14,7 @@ It simulates a virtual hard drive by allowing you to create, store, and retrieve
 - Read files from the virtual disk
 - Simple in-memory file indexing
 - Command Line Interface (CLI) to interact with the disk
-- Modular C++ codebase for easy extension
+- Modular Javascript codebase for easy extension
 
 ---
 
