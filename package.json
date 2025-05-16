@@ -1,0 +1,21 @@
+{
+  "name": "virtual-disk",
+  "version": "1.0.0",
+  "description": "This is a simple virtual disk management system leverages fs to build.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvrajkarna2717/Virtual-Disk.git"
+  },
+  "keywords": ["folder structure", "structure", "virtual disk"],
+  "author": "Yuvraj Karna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvrajkarna2717/Virtual-Disk/issues"
+  },
+  "homepage": "https://github.com/yuvrajkarna2717/Virtual-Disk#readme"
+}

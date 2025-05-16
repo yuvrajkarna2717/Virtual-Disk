@@ -1,0 +1,49 @@
+{
+  "name": "/",
+  "type": "folder",
+  "children": [
+    {
+      "name": "one",
+      "type": "folder",
+      "children": [
+        {
+          "name": "one-one",
+          "type": "folder",
+          "children": [
+            {
+              "name": "hello.txt",
+              "type": "file",
+              "content": "This is hello.txt inside one/one-one."
+            }
+          ]
+        },
+        {
+          "name": "one-two",
+          "type": "folder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "two",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "three",
+      "type": "folder",
+      "children": [
+        {
+          "name": "hello.txt",
+          "type": "file",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "name": ".gitignore",
+      "type": "file",
+      "content": ""
+    }
+  ]
+}
